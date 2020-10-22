@@ -1,6 +1,7 @@
 # What I have read 
 
 -Meta Learning
+
 1.[Meta-weight-net: Learning an explicit mapping for sample weighting.](https://papers.nips.cc/paper/8467-meta-weight-net-learning-an-explicit-mapping-for-sample-weighting.pdf) NIPS 2019
 
 2.[Meta Transition Adaptation for Robust Deep Learning with Noisy Labels.](https://arxiv.org/pdf/2006.05697.pdf)
@@ -12,6 +13,7 @@
 5.[When Does Label Smoothing Help?](https://papers.nips.cc/paper/8717-when-does-label-smoothing-help.pdf) NIPS 2019
 
 -Normalization
+
 1.[Batch normalization: Accelerating deep network training by reducing internal covariate shift.](https://arxiv.org/pdf/1502.03167.pdf) PMLR 2015
 
 2.[Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf) 2016
