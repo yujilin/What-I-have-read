@@ -28,3 +28,5 @@
 
 7.[Cosine normalization: Using cosine similarity instead of dot product in neural networks.](https://arxiv.org/pdf/1702.05870.pdf) ICANN 2018
 
+The kms guide of office
+https://msguides.com/microsoft-software-products/office-2019.html
